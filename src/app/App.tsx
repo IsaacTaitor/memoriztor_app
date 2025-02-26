@@ -1,18 +1,11 @@
 import { useCallback, useEffect, useState } from 'react'
 import './App.css'
 import verbs from './verbs.json'
-import Alert from '@mui/material/Alert';
-import { Snackbar, SnackbarCloseReason } from '@mui/material';
 import { useSnackbar } from 'notistack';
 
 enum TYPE_OF_VERB {
   "INFINITIVE" = "infinite",
   "GERUND" = "gerund"
-}
-
-enum TYPE_OF_ANSWER {
-  "CURRECT" = "success",
-  "UNCURRECT" = "error"
 }
 
 function getRandomInt(max: number) {
