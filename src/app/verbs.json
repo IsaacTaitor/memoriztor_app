@@ -1,384 +1,632 @@
-{
-  "gerund": [
-    {
-      "abhor": ""
-    },
-    {
-      "acknowledge": ""
-    },
-    {
-      "admit": ""
-    },
-    {
-      "advise": ""
-    },
-    {
-      "allow": ""
-    },
-    {
-      "anticipate": ""
-    },
-    {
-      "appreciate": ""
-    },
-    {
-      "avoid": ""
-    },
-    {
-      "be worth": ""
-    },
-    {
-      "can’t help": ""
-    },
-    {
-      "celebrate": ""
-    },
-    {
-      "confess": ""
-    },
-    {
-      "consider": ""
-    },
-    {
-      "defend": ""
-    },
-    {
-      "delay": ""
-    },
-    {
-      "detest": ""
-    },
-    {
-      "discontinue": ""
-    },
-    {
-      "discuss": ""
-    },
-    {
-      "dislike": ""
-    },
-    {
-      "dispute": ""
-    },
-    {
-      "dread": ""
-    },
-    {
-      "endure": ""
-    },
-    {
-      "enjoy": ""
-    },
-    {
-      "escape": ""
-    },
-    {
-      "evade": ""
-    },
-    {
-      "explain": ""
-    },
-    {
-      "fancy": ""
-    },
-    {
-      "fear": ""
-    },
-    {
-      "feel like": ""
-    },
-    {
-      "feign": ""
-    },
-    {
-      "finish": ""
-    },
-    {
-      "forgive": ""
-    },
-    {
-      "give up (stop)": ""
-    },
-    {
-      "keep (continue)": ""
-    },
-    {
-      "keep on": ""
-    },
-    {
-      "mention": ""
-    },
-    {
-      "mind (object to)": ""
-    },
-    {
-      "miss": ""
-    },
-    {
-      "necessitate": ""
-    },
-    {
-      "omit": ""
-    },
-    {
-      "permit": ""
-    },
-    {
-      "picture": ""
-    },
-    {
-      "postpone": ""
-    },
-    {
-      "practice": ""
-    },
-    {
-      "prevent": ""
-    },
-    {
-      "put off": ""
-    },
-    {
-      "recall": ""
-    },
-    {
-      "recollect": ""
-    },
-    {
-      "recommend": ""
-    },
-    {
-      "report": ""
-    },
-    {
-      "resent": ""
-    },
-    {
-      "resist": ""
-    },
-    {
-      "resume": ""
-    },
-    {
-      "risk": ""
-    },
-    {
-      "shirk": ""
-    },
-    {
-      "shun": ""
-    },
-    {
-      "suggest": ""
-    },
-    {
-      "support": ""
-    },
-    {
-      "tolerate": ""
-    },
-    {
-      "understand": ""
-    },
-    {
-      "urge": ""
-    },
-    {
-      "warrant": ""
-    }
-  ],
-  "infinite": [
-    {
-      "agree": ""
-    },
-    {
-      "appear": ""
-    },
-    {
-      "arrange": ""
-    },
-    {
-      "ask": ""
-    },
-    {
-      "attempt": ""
-    },
-    {
-      "beg": ""
-    },
-    {
-      "can/can’t afford": ""
-    },
-    {
-      "can/can’t wait": ""
-    },
-    {
-      "care": ""
-    },
-    {
-      "chance": ""
-    },
-    {
-      "choose": ""
-    },
-    {
-      "claim": ""
-    },
-    {
-      "come": ""
-    },
-    {
-      "consent": ""
-    },
-    {
-      "dare": ""
-    },
-    {
-      "decide": ""
-    },
-    {
-      "demand": ""
-    },
-    {
-      "deserve": ""
-    },
-    {
-      "determine": ""
-    },
-    {
-      "elect": ""
-    },
-    {
-      "endeavor": ""
-    },
-    {
-      "expect": ""
-    },
-    {
-      "fail": ""
-    },
-    {
-      "get": ""
-    },
-    {
-      "grow (up)": ""
-    },
-    {
-      "guarantee": ""
-    },
-    {
-      "hesitate": ""
-    },
-    {
-      "hope": ""
-    },
-    {
-      "hurry": ""
-    },
-    {
-      "incline": ""
-    },
-    {
-      "learn": ""
-    },
-    {
-      "manage": ""
-    },
-    {
-      "mean": ""
-    },
-    {
-      "need": ""
-    },
-    {
-      "neglect": ""
-    },
-    {
-      "offer": ""
-    },
-    {
-      "pay": ""
-    },
-    {
-      "plan": ""
-    },
-    {
-      "prepare": ""
-    },
-    {
-      "pretend": ""
-    },
-    {
-      "profess": ""
-    },
-    {
-      "promise": ""
-    },
-    {
-      "prove": ""
-    },
-    {
-      "refuse": ""
-    },
-    {
-      "remain": ""
-    },
-    {
-      "request": ""
-    },
-    {
-      "resolve": ""
-    },
-    {
-      "say": ""
-    },
-    {
-      "seek": ""
-    },
-    {
-      "seem": ""
-    },
-    {
-      "shudder": ""
-    },
-    {
-      "strive": ""
-    },
-    {
-      "struggle": ""
-    },
-    {
-      "swear": ""
-    },
-    {
-      "tend": ""
-    },
-    {
-      "threaten": ""
-    },
-    {
-      "turn out": ""
-    },
-    {
-      "venture": ""
-    },
-    {
-      "volunteer": ""
-    },
-    {
-      "wait": ""
-    },
-    {
-      "want": ""
-    },
-    {
-      "wish": ""
-    },
-    {
-      "would like": ""
-    },
-    {
-      "yearn": ""
-    }
-  ]
-}
+[
+  {
+    "value": "abhor",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "acknowledge",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "admit",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "advise",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "allow",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "anticipate",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "appreciate",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "avoid",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "be worth",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "can't help",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "celebrate",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "confess",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "consider",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "defend",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "delay",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "detest",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "discontinue",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "discuss",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "dislike",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "dispute",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "dread",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "endure",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "enjoy",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "escape",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "evade",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "explain",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "fancy",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "fear",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "feel like",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "feign",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "finish",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "forgive",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "give up (stop)",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "keep (continue)",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "keep on",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "mention",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "mind (object to)",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "miss",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "necessitate",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "omit",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "permit",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "picture",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "postpone",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "practice",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "prevent",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "put off",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "recall",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "recollect",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "recommend",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "report",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "resent",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "resist",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "resume",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "risk",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "shirk",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "shun",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "suggest",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "support",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "tolerate",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "understand",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "urge",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "warrant",
+    "type": "gerund",
+    "examples": []
+  },
+  {
+    "value": "agree",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "appear",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "arrange",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "ask",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "attempt",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "beg",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "can/can't afford",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "can/can't wait",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "care",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "chance",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "choose",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "claim",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "come",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "consent",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "dare",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "decide",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "demand",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "deserve",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "determine",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "elect",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "endeavor",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "expect",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "fail",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "get",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "grow (up)",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "guarantee",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "hesitate",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "hope",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "hurry",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "incline",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "learn",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "manage",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "mean",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "need",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "neglect",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "offer",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "pay",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "plan",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "prepare",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "pretend",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "profess",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "promise",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "prove",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "refuse",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "remain",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "request",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "resolve",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "say",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "seek",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "seem",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "shudder",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "strive",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "struggle",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "swear",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "tend",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "threaten",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "turn out",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "venture",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "volunteer",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "wait",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "want",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "wish",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "would like",
+    "type": "infinitive",
+    "examples": []
+  },
+  {
+    "value": "yearn",
+    "type": "infinitive",
+    "examples": []
+  }
+]

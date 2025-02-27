@@ -1,11 +1,12 @@
-import { useCallback, useEffect, useState } from 'react'
-import './App.css'
-import verbs from './verbs.json'
-import { useSnackbar } from 'notistack';
+import { useCallback, useEffect, useState } from "react";
+import { useSnackbar } from "notistack";
+
+import "./styles.css";
+import verbs from "./verbs.json";
 
 enum TYPE_OF_VERB {
-  "INFINITIVE" = "infinite",
-  "GERUND" = "gerund"
+  "INFINITIVE" = "infinitive",
+  "GERUND" = "gerund",
 }
 
 function getRandomInt(max: number) {
@@ -13,44 +14,39 @@ function getRandomInt(max: number) {
 }
 
 function App() {
-  const [type, setType] = useState<TYPE_OF_VERB | null>(null)
-  const [index, setIndex] = useState<number>(0)
   const { enqueueSnackbar } = useSnackbar();
 
+  const [index, setIndex] = useState<number>(0);
+
+  const [currectStackIndex, setCurrectStackIndex] = useState<number>([]);
+
   const update = useCallback(() => {
-    setType(getRandomInt(2) === 1 ? TYPE_OF_VERB.GERUND : TYPE_OF_VERB.INFINITIVE);
-    setIndex(getRandomInt(verbs.gerund.length));
-  }, [])
+    setIndex(getRandomInt(verbs.length));
+  }, []);
 
   useEffect(() => {
-    update()
-  }, [update])
+    update();
+  }, [update]);
 
-  const handleClick = (value: TYPE_OF_VERB) => {
-    if (type === value) {
-      enqueueSnackbar('Правильно :)', { variant: "success" });
+  const handleClick = (type: TYPE_OF_VERB) => {
+    if (verbs[index].type === type) {
+      enqueueSnackbar("Правильно :)", { variant: "success" });
     } else {
-      enqueueSnackbar('Неправильно :(', { variant: "error" });
+      enqueueSnackbar("Неправильно :(", { variant: "error" });
     }
     update();
-  }
-
-  if (!type) return null;
+  };
 
   return (
     <>
       <h1>Memorizator</h1>
-      <h4>{Object.keys(verbs[type][index])}</h4>
+      <h4>{verbs[index].value}</h4>
       <div className="card">
-        <button onClick={() => handleClick(TYPE_OF_VERB.INFINITIVE)}>
-          Infinitive
-        </button>
-        <button onClick={() => handleClick(TYPE_OF_VERB.GERUND)}>
-          Gerund
-        </button>
+        <button onClick={() => handleClick(TYPE_OF_VERB.INFINITIVE)}>Infinitive</button>
+        <button onClick={() => handleClick(TYPE_OF_VERB.GERUND)}>Gerund</button>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
