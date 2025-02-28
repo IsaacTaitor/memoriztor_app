@@ -130,7 +130,7 @@ function App() {
             <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "center", mb: 2 }}>
               <Typography sx={{ color: "text.secondary", fontSize: 14 }}>{values[index].value}</Typography>
               <Chip
-                label={values[index].level}
+                label={`${values[index].level} / ${values.length} / ${index}`}
                 color="primary"
                 size="small"
                 sx={{
