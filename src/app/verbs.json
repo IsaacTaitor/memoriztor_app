@@ -2,631 +2,1261 @@
   {
     "value": "abhor",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I abhor (to lie / lying)",
+      "She abhors (to get up / getting up) early",
+      "They abhor (to waste / wasting) time on meaningless tasks"
+    ],
+    "translation": "ненавидеть"
   },
   {
     "value": "acknowledge",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He acknowledged (to make / making) a mistake",
+      "The company acknowledges (to receive / receiving) your complaint",
+      "We acknowledge (to have / having) difficulties with the project"
+    ],
+    "translation": "сознавать"
   },
   {
     "value": "admit",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "She admitted (to steal / stealing) the money",
+      "I admit (to be / being) wrong about that",
+      "They admitted (to have / having) problems with the deadline"
+    ],
+    "translation": "признавать, допускать"
   },
   {
     "value": "advise",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I advise (to take / taking) a break",
+      "She advises (to start / starting) early",
+      "They advised (to save / saving) money for retirement"
+    ],
+    "translation": "советовать"
   },
   {
     "value": "allow",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "The rules don't allow (to smoke / smoking) inside",
+      "Parents allow (to stay / staying) up late on weekends",
+      "The teacher allowed (to use / using) calculators during the test"
+    ],
+    "translation": "позволять"
   },
   {
     "value": "anticipate",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "We anticipate (to finish / finishing) the project next week",
+      "They anticipate (to have / having) problems with the deadline",
+      "I anticipate (to move / moving) to a new city soon"
+    ],
+    "translation": "предвидеть"
   },
   {
     "value": "appreciate",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I appreciate (to hear / hearing) from you",
+      "We appreciate (to receive / receiving) your feedback",
+      "They appreciated (to get / getting) help with the move"
+    ],
+    "translation": "ценить"
   },
   {
     "value": "avoid",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Try to avoid (to make / making) the same mistake twice",
+      "She avoids (to drive / driving) in heavy traffic",
+      "We should avoid (to waste / wasting) time on this"
+    ],
+    "translation": "избегать"
   },
   {
     "value": "be worth",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "This book is worth (to read / reading)",
+      "The movie is worth (to watch / watching)",
+      "That restaurant is worth (to try / trying)"
+    ],
+    "translation": "стоить"
   },
   {
     "value": "can't help",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I can't help (to think / thinking) about it",
+      "She can't help (to smile / smiling) when she sees him",
+      "We couldn't help (to laugh / laughing) at the situation"
+    ],
+    "translation": "не мочь не"
   },
   {
     "value": "celebrate",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "We celebrate (to complete / completing) the project",
+      "They celebrated (to win / winning) the championship",
+      "Let's celebrate (to achieve / achieving) our goals"
+    ],
+    "translation": "праздновать"
   },
   {
     "value": "confess",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He confessed (to steal / stealing) the money",
+      "I confess (to forget / forgetting) your birthday",
+      "She confessed (to lie / lying) about her age"
+    ],
+    "translation": "признаваться"
   },
   {
     "value": "consider",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "We are considering (to move / moving) to another city",
+      "They considered (to buy / buying) a new car",
+      "I consider (to change / changing) my job"
+    ],
+    "translation": "рассматривать"
   },
   {
     "value": "defend",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He defended (to cheat / cheating) on the test",
+      "The lawyer defended (to take / taking) such actions",
+      "We defend (to protect / protecting) our rights"
+    ],
+    "translation": "защищать"
   },
   {
     "value": "delay",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Let's delay (to make / making) the decision",
+      "They delayed (to start / starting) the project",
+      "I delayed (to tell / telling) her the news"
+    ],
+    "translation": "откладывать"
   },
   {
     "value": "detest",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I detest (to wait / waiting) in long lines",
+      "She detests (to cook / cooking) dinner",
+      "They detest (to work / working) overtime"
+    ],
+    "translation": "ненавидеть"
   },
   {
     "value": "discontinue",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "The company discontinued (to produce / producing) this model",
+      "We discontinued (to use / using) old methods",
+      "They discontinued (to offer / offering) this service"
+    ],
+    "translation": "прекращать"
   },
   {
     "value": "discuss",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "We discussed (to buy / buying) a new house",
+      "They discussed (to change / changing) the rules",
+      "Let's discuss (to improve / improving) our strategy"
+    ],
+    "translation": "обсуждать"
   },
   {
     "value": "dislike",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I dislike (to wake up / waking up) early",
+      "She dislikes (to work / working) late",
+      "They dislike (to travel / traveling) by plane"
+    ],
+    "translation": "не любить"
   },
   {
     "value": "dispute",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He disputed (to pay / paying) the fine",
+      "We dispute (to accept / accepting) these terms",
+      "They disputed (to follow / following) this policy"
+    ],
+    "translation": "оспаривать"
   },
   {
     "value": "dread",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I dread (to go / going) to the dentist",
+      "She dreads (to speak / speaking) in public",
+      "We dread (to tell / telling) them the truth"
+    ],
+    "translation": "страшиться"
   },
   {
     "value": "endure",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "She endured (to live / living) in difficult conditions",
+      "We endured (to work / working) long hours",
+      "They endured (to wait / waiting) for hours"
+    ],
+    "translation": "терпеть"
   },
   {
     "value": "enjoy",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I enjoy (to read / reading) books",
+      "She enjoys (to cook / cooking) for friends",
+      "They enjoy (to travel / traveling) together"
+    ],
+    "translation": "наслаждаться"
   },
   {
     "value": "escape",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He escaped (to do / doing) extra work",
+      "They escaped (to pay / paying) taxes",
+      "I escaped (to attend / attending) the boring meeting"
+    ],
+    "translation": "избегать"
   },
   {
     "value": "evade",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "The politician evaded (to answer / answering) questions",
+      "She evaded (to discuss / discussing) the issue",
+      "They evaded (to take / taking) responsibility"
+    ],
+    "translation": "уклоняться"
   },
   {
     "value": "explain",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He explained (to solve / solving) the problem",
+      "Please explain (to use / using) this device",
+      "She explained (to make / making) the decision"
+    ],
+    "translation": "объяснять"
   },
   {
     "value": "fancy",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I fancy (to go / going) to Paris",
+      "She fancies (to become / becoming) an actress",
+      "They fancy (to live / living) by the sea"
+    ],
+    "translation": "воображать"
   },
   {
     "value": "fear",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I fear (to lose / losing) my job",
+      "She fears (to fly / flying) in planes",
+      "They fear (to fail / failing) the exam"
+    ],
+    "translation": "бояться"
   },
   {
     "value": "feel like",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I feel like (to eat / eating) ice cream",
+      "She feels like (to go / going) for a walk",
+      "They feel like (to watch / watching) a movie"
+    ],
+    "translation": "хотеть"
   },
   {
     "value": "feign",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He feigned (to be / being) sick",
+      "She feigned (to sleep / sleeping) during the lecture",
+      "They feigned (to work / working) when the boss came"
+    ],
+    "translation": "притворяться"
   },
   {
     "value": "finish",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I finished (to write / writing) the report",
+      "She finished (to clean / cleaning) the house",
+      "They finished (to paint / painting) the walls"
+    ],
+    "translation": "заканчивать"
   },
   {
     "value": "forgive",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Please forgive (to be / being) late",
+      "I forgive you for (to forget / forgetting) my birthday",
+      "She forgave him for (to lie / lying)"
+    ],
+    "translation": "прощать"
   },
   {
     "value": "give up (stop)",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I gave up (to smoke / smoking) last year",
+      "She gave up (to try / trying) to learn Chinese",
+      "They gave up (to look / looking) for the lost key"
+    ],
+    "translation": "бросать, прекращать"
   },
   {
     "value": "keep (continue)",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He keeps (to work / working) despite being tired",
+      "They keep (to try / trying) new methods",
+      "She kept (to practice / practicing) until she succeeded"
+    ],
+    "translation": "продолжать"
   },
   {
     "value": "keep on",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Keep on (to study / studying) hard",
+      "She keeps on (to smile / smiling) through difficulties",
+      "They kept on (to walk / walking) for hours"
+    ],
+    "translation": "продолжать"
   },
   {
     "value": "mention",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He mentioned (to visit / visiting) Paris last summer",
+      "She mentioned (to see / seeing) you at the party",
+      "They mentioned (to plan / planning) a surprise"
+    ],
+    "translation": "упоминать"
   },
   {
     "value": "mind (object to)",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Do you mind (to open / opening) the window?",
+      "She doesn't mind (to work / working) late",
+      "They minded (to wait / waiting) in line"
+    ],
+    "translation": "возражать"
   },
   {
     "value": "miss",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I miss (to play / playing) football with friends",
+      "She misses (to live / living) near the beach",
+      "They miss (to spend / spending) time together"
+    ],
+    "translation": "пропускать, скучать"
   },
   {
     "value": "necessitate",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "The situation necessitates (to take / taking) immediate action",
+      "Changes necessitate (to update / updating) the software",
+      "This project necessitates (to hire / hiring) more staff"
+    ],
+    "translation": "требовать"
   },
   {
     "value": "omit",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Don't omit (to check / checking) your answers",
+      "She omitted (to mention / mentioning) important details",
+      "They omitted (to include / including) the tax in the price"
+    ],
+    "translation": "пропускать"
   },
   {
     "value": "permit",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "The rules permit (to park / parking) here",
+      "The weather permits (to swim / swimming) today",
+      "The boss permitted (to leave / leaving) early"
+    ],
+    "translation": "разрешать"
   },
   {
     "value": "picture",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I can picture (to live / living) in a big city",
+      "She pictured (to win / winning) the competition",
+      "They pictured (to travel / traveling) around the world"
+    ],
+    "translation": "представлять"
   },
   {
     "value": "postpone",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Let's postpone (to make / making) the decision",
+      "They postponed (to start / starting) the meeting",
+      "We postponed (to buy / buying) a new car"
+    ],
+    "translation": "откладывать"
   },
   {
     "value": "practice",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "She practices (to play / playing) piano every day",
+      "They practice (to speak / speaking) English",
+      "I practice (to drive / driving) in empty parking lots"
+    ],
+    "translation": "практиковать"
   },
   {
     "value": "prevent",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "The rain prevented us from (to go / going) outside",
+      "This lock prevents (to steal / stealing) the bike",
+      "The rules prevent (to cheat / cheating) during exams"
+    ],
+    "translation": "предотвращать"
   },
   {
     "value": "put off",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Don't put off (to do / doing) your homework",
+      "She puts off (to clean / cleaning) her room",
+      "They put off (to make / making) a decision"
+    ],
+    "translation": "откладывать"
   },
   {
     "value": "recall",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I recall (to meet / meeting) her last summer",
+      "She recalls (to visit / visiting) Paris as a child",
+      "They recall (to work / working) together years ago"
+    ],
+    "translation": "вспоминать"
   },
   {
     "value": "recollect",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I recollect (to see / seeing) that movie",
+      "She recollects (to live / living) in London",
+      "They recollect (to play / playing) in the park"
+    ],
+    "translation": "вспоминать"
   },
   {
     "value": "recommend",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I recommend (to try / trying) the local cuisine",
+      "She recommends (to start / starting) early",
+      "They recommend (to book / booking) in advance"
+    ],
+    "translation": "рекомендовать"
   },
   {
     "value": "report",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Please report (to see / seeing) any suspicious activity",
+      "She reported (to lose / losing) her passport",
+      "They reported (to find / finding) a solution"
+    ],
+    "translation": "сообщать"
   },
   {
     "value": "resent",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I resent (to work / working) overtime",
+      "She resents (to wait / waiting) in long lines",
+      "They resent (to pay / paying) extra fees"
+    ],
+    "translation": "возмущаться"
   },
   {
     "value": "resist",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I can't resist (to buy / buying) chocolate",
+      "She resists (to check / checking) her phone",
+      "They resist (to change / changing) their habits"
+    ],
+    "translation": "сопротивляться"
   },
   {
     "value": "resume",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Let's resume (to work / working) after lunch",
+      "She resumed (to study / studying) after a break",
+      "They resumed (to talk / talking) where they left off"
+    ],
+    "translation": "возобновлять"
   },
   {
     "value": "risk",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He risks (to lose / losing) his job",
+      "They risk (to miss / missing) their flight",
+      "I won't risk (to damage / damaging) the equipment"
+    ],
+    "translation": "рисковать"
   },
   {
     "value": "shirk",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "Don't shirk (to do / doing) your duties",
+      "He shirks (to take / taking) responsibility",
+      "They shirk (to help / helping) with difficult tasks"
+    ],
+    "translation": "уклоняться"
   },
   {
     "value": "shun",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "He shuns (to speak / speaking) in public",
+      "They shun (to use / using) modern technology",
+      "She shuns (to attend / attending) social events"
+    ],
+    "translation": "избегать"
   },
   {
     "value": "suggest",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I suggest (to try / trying) the new restaurant",
+      "She suggested (to take / taking) a different route",
+      "They suggest (to wait / waiting) until tomorrow"
+    ],
+    "translation": "предлагать"
   },
   {
     "value": "support",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I support (to increase / increasing) funding for education",
+      "She supports (to protect / protecting) the environment",
+      "They support (to build / building) a new community center"
+    ],
+    "translation": "поддерживать"
   },
   {
     "value": "tolerate",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I won't tolerate (to cheat / cheating) in my class",
+      "She tolerates (to work / working) overtime occasionally",
+      "They don't tolerate (to be / being) late"
+    ],
+    "translation": "терпеть"
   },
   {
     "value": "understand",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I understand (to want / wanting) to leave early",
+      "She understands (to feel / feeling) nervous",
+      "They understand (to need / needing) more time"
+    ],
+    "translation": "понимать"
   },
   {
     "value": "urge",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "I urge (to consider / considering) all options",
+      "She urges (to save / saving) for retirement",
+      "They urge (to take / taking) immediate action"
+    ],
+    "translation": "побуждать"
   },
   {
     "value": "warrant",
     "type": "gerund",
-    "examples": []
+    "examples": [
+      "This situation warrants (to take / taking) extra precautions",
+      "The problem warrants (to investigate / investigating) further",
+      "These results warrant (to conduct / conducting) more research"
+    ],
+    "translation": "гарантировать"
   },
   {
     "value": "agree",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I agree (to help / helping) you move",
+      "She agreed (to join / joining) the team",
+      "They agree (to pay / paying) the full amount"
+    ],
+    "translation": "соглашаться"
   },
   {
     "value": "appear",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "The problem appears (to be / being) more complex",
+      "She appears (to know / knowing) the answer",
+      "They appeared (to understand / understanding) the situation"
+    ],
+    "translation": "появляться"
   },
   {
     "value": "arrange",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I arranged (to meet / meeting) them tomorrow",
+      "She arranges (to deliver / delivering) the packages",
+      "They arranged (to visit / visiting) the museum"
+    ],
+    "translation": "организовывать"
   },
   {
     "value": "ask",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He asked (to help / helping) with the project",
+      "I ask you (to consider / considering) my proposal",
+      "They asked (to join / joining) the team"
+    ],
+    "translation": "просить"
   },
   {
     "value": "attempt",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He attempted (to solve / solving) the puzzle",
+      "We attempt (to improve / improving) our services",
+      "They attempted (to climb / climbing) the mountain"
+    ],
+    "translation": "пытаться"
   },
   {
     "value": "beg",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "She begged (to stay / staying) longer",
+      "They beg (to help / helping) them",
+      "I begged him (to listen / listening) to me"
+    ],
+    "translation": "умолять"
   },
   {
     "value": "can/can't afford",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We can't afford (to buy / buying) a new car",
+      "She can afford (to travel / traveling) first class",
+      "They couldn't afford (to waste / wasting) time"
+    ],
+    "translation": "мочь/не мочь позволить себе"
   },
   {
     "value": "can/can't wait",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I can't wait (to see / seeing) you",
+      "She can't wait (to start / starting) her new job",
+      "They can't wait (to move / moving) to their new house"
+    ],
+    "translation": "мочь/не мочь дождаться"
   },
   {
     "value": "care",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I don't care (to go / going) there",
+      "She cares (to help / helping) others",
+      "They care (to maintain / maintaining) high standards"
+    ],
+    "translation": "заботиться"
   },
   {
     "value": "chance",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I chanced (to meet / meeting) her at the store",
+      "She chanced (to find / finding) the lost key",
+      "They chanced (to discover / discovering) a new solution"
+    ],
+    "translation": "рисковать"
   },
   {
     "value": "choose",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I chose (to stay / staying) home",
+      "She chooses (to work / working) remotely",
+      "They chose (to live / living) in the countryside"
+    ],
+    "translation": "выбирать"
   },
   {
     "value": "claim",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He claims (to be / being) an expert",
+      "They claim (to know / knowing) the truth",
+      "She claimed (to see / seeing) the incident"
+    ],
+    "translation": "утверждать"
   },
   {
     "value": "come",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "She came (to understand / understanding) the problem",
+      "They come (to appreciate / appreciating) art",
+      "I came (to realize / realizing) my mistake"
+    ],
+    "translation": "приходить"
   },
   {
     "value": "consent",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He consented (to participate / participating) in the study",
+      "She consents (to share / sharing) her experience",
+      "They consented (to help / helping) with the project"
+    ],
+    "translation": "соглашаться"
   },
   {
     "value": "dare",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I dare (to disagree / disagreeing) with you",
+      "She dares (to challenge / challenging) the rules",
+      "They dared (to explore / exploring) the cave"
+    ],
+    "translation": "осмеливаться"
   },
   {
     "value": "decide",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We decided (to move / moving) to a new city",
+      "She decides (to quit / quitting) her job",
+      "They decided (to start / starting) a business"
+    ],
+    "translation": "решать"
   },
   {
     "value": "demand",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "The boss demands (to see / seeing) the report",
+      "She demanded (to speak / speaking) to the manager",
+      "They demand (to know / knowing) the truth"
+    ],
+    "translation": "требовать"
   },
   {
     "value": "deserve",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "You deserve (to know / knowing) the truth",
+      "She deserves (to win / winning) the prize",
+      "They deserve (to succeed / succeeding)"
+    ],
+    "translation": "заслуживать"
   },
   {
     "value": "determine",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We determined (to finish / finishing) the project",
+      "She determines (to improve / improving) her skills",
+      "They determined (to solve / solving) the problem"
+    ],
+    "translation": "определять"
   },
   {
     "value": "elect",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I elect (to stay / staying) silent",
+      "She elected (to pursue / pursuing) her dreams",
+      "They elect (to continue / continuing) the discussion"
+    ],
+    "translation": "выбирать"
   },
   {
     "value": "endeavor",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We endeavor (to provide / providing) the best service",
+      "She endeavors (to learn / learning) new skills",
+      "They endeavored (to reach / reaching) their goals"
+    ],
+    "translation": "стараться"
   },
   {
     "value": "expect",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We expect (to finish / finishing) by Friday",
+      "She expects (to receive / receiving) an answer soon",
+      "They expect (to win / winning) the competition"
+    ],
+    "translation": "ожидать"
   },
   {
     "value": "fail",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He failed (to complete / completing) the task",
+      "She fails (to understand / understanding) the concept",
+      "They failed (to arrive / arriving) on time"
+    ],
+    "translation": "не суметь"
   },
   {
     "value": "get",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I got (to know / knowing) her better",
+      "She gets (to work / working) early",
+      "They got (to see / seeing) the sunrise"
+    ],
+    "translation": "получать"
   },
   {
     "value": "grow (up)",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He grew up (to be / being) a doctor",
+      "She grows (to love / loving) the city",
+      "They grew (to appreciate / appreciating) art"
+    ],
+    "translation": "вырастать"
   },
   {
     "value": "guarantee",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We guarantee (to deliver / delivering) on time",
+      "She guarantees (to finish / finishing) the project",
+      "They guarantee (to solve / solving) the problem"
+    ],
+    "translation": "гарантировать"
   },
   {
     "value": "hesitate",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "Don't hesitate (to ask / asking) for help",
+      "She hesitates (to speak / speaking) in public",
+      "They hesitated (to make / making) a decision"
+    ],
+    "translation": "колебаться"
   },
   {
     "value": "hope",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I hope (to see / seeing) you soon",
+      "She hopes (to graduate / graduating) next year",
+      "They hope (to succeed / succeeding) in their business"
+    ],
+    "translation": "надеяться"
   },
   {
     "value": "hurry",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We hurried (to catch / catching) the train",
+      "She hurries (to finish / finishing) her work",
+      "They hurried (to leave / leaving) before the storm"
+    ],
+    "translation": "спешить"
   },
   {
     "value": "incline",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I'm inclined (to agree / agreeing) with you",
+      "She inclines (to believe / believing) the story",
+      "They are inclined (to accept / accepting) the offer"
+    ],
+    "translation": "склоняться"
   },
   {
     "value": "learn",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He learned (to play / playing) the guitar",
+      "She learns (to cook / cooking) new dishes",
+      "They learned (to speak / speaking) Spanish"
+    ],
+    "translation": "учиться"
   },
   {
     "value": "manage",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We managed (to complete / completing) the project on time",
+      "She manages (to balance / balancing) work and family",
+      "They managed (to solve / solving) the problem"
+    ],
+    "translation": "справляться"
   },
   {
     "value": "mean",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I mean (to help / helping) you",
+      "She means (to return / returning) the book",
+      "They mean (to visit / visiting) next week"
+    ],
+    "translation": "иметь в виду"
   },
   {
     "value": "need",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "You need (to study / studying) harder",
+      "She needs (to rest / resting) more",
+      "They need (to prepare / preparing) better"
+    ],
+    "translation": "нуждаться"
   },
   {
     "value": "neglect",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "Don't neglect (to exercise / exercising) regularly",
+      "She neglects (to check / checking) her emails",
+      "They neglected (to inform / informing) us"
+    ],
+    "translation": "пренебрегать"
   },
   {
     "value": "offer",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He offered (to help / helping) with the move",
+      "She offers (to teach / teaching) beginners",
+      "They offered (to contribute / contributing) to the project"
+    ],
+    "translation": "предлагать"
   },
   {
     "value": "pay",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "It pays (to be / being) honest",
+      "She pays (to attend / attending) these classes",
+      "They paid (to upgrade / upgrading) their membership"
+    ],
+    "translation": "платить"
   },
   {
     "value": "plan",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We plan (to travel / traveling) next month",
+      "She plans (to study / studying) abroad",
+      "They plan (to expand / expanding) their business"
+    ],
+    "translation": "планировать"
   },
   {
     "value": "prepare",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I prepare (to leave / leaving) early",
+      "She prepares (to present / presenting) tomorrow",
+      "They prepared (to face / facing) the challenge"
+    ],
+    "translation": "готовить(ся)"
   },
   {
     "value": "pretend",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He pretends (to sleep / sleeping) during meetings",
+      "She pretends (to understand / understanding) the topic",
+      "They pretend (to work / working) when the boss is around"
+    ],
+    "translation": "притворяться"
   },
   {
     "value": "profess",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He professes (to know / knowing) the truth",
+      "She professes (to love / loving) classical music",
+      "They profess (to support / supporting) the cause"
+    ],
+    "translation": "заявлять"
   },
   {
     "value": "promise",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I promise (to help / helping) you tomorrow",
+      "She promised (to return / returning) the book",
+      "They promise (to improve / improving) their service"
+    ],
+    "translation": "обещать"
   },
   {
     "value": "prove",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He proved (to be / being) right",
+      "She proves (to excel / excelling) at her job",
+      "They proved (to succeed / succeeding) in their goals"
+    ],
+    "translation": "доказывать"
   },
   {
     "value": "refuse",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I refuse (to give up / giving up) now",
+      "She refuses (to accept / accepting) defeat",
+      "They refused (to compromise / compromising) their values"
+    ],
+    "translation": "отказываться"
   },
   {
     "value": "remain",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He remains (to be / being) optimistic",
+      "She remains (to work / working) here",
+      "They remain (to live / living) in the city"
+    ],
+    "translation": "оставаться"
   },
   {
     "value": "request",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I request (to speak / speaking) with the manager",
+      "She requested (to leave / leaving) early",
+      "They request (to meet / meeting) in person"
+    ],
+    "translation": "просить"
   },
   {
     "value": "resolve",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We resolved (to finish / finishing) the project",
+      "She resolves (to exercise / exercising) daily",
+      "They resolved (to solve / solving) their differences"
+    ],
+    "translation": "решать"
   },
   {
     "value": "say",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He says (to know / knowing) the answer",
+      "She said (to understand / understanding) the problem",
+      "They say (to have / having) the solution"
+    ],
+    "translation": "говорить"
   },
   {
     "value": "seek",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We seek (to improve / improving) our services",
+      "She seeks (to find / finding) a better job",
+      "They seek (to understand / understanding) the market"
+    ],
+    "translation": "искать"
   },
   {
     "value": "seem",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He seems (to know / knowing) the answer",
+      "She seems (to enjoy / enjoying) her work",
+      "They seem (to understand / understanding) the situation"
+    ],
+    "translation": "казаться"
   },
   {
     "value": "shudder",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I shudder (to think / thinking) about it",
+      "She shudders (to remember / remembering) that day",
+      "They shudder (to imagine / imagining) the consequences"
+    ],
+    "translation": "содрогаться"
   },
   {
     "value": "strive",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "We strive (to achieve / achieving) excellence",
+      "She strives (to improve / improving) every day",
+      "They strive (to maintain / maintaining) high standards"
+    ],
+    "translation": "стремиться"
   },
   {
     "value": "struggle",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I struggle (to understand / understanding) this concept",
+      "She struggles (to balance / balancing) work and life",
+      "They struggle (to meet / meeting) deadlines"
+    ],
+    "translation": "бороться"
   },
   {
     "value": "swear",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I swear (to tell / telling) the truth",
+      "She swears (to keep / keeping) the secret",
+      "They swore (to protect / protecting) the community"
+    ],
+    "translation": "клясться"
   },
   {
     "value": "tend",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "He tends (to forget / forgetting) important dates",
+      "She tends (to work / working) late",
+      "They tend (to arrive / arriving) early"
+    ],
+    "translation": "иметь тенденцию"
   },
   {
     "value": "threaten",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "The storm threatens (to destroy / destroying) the crops",
+      "She threatens (to leave / leaving) the company",
+      "They threaten (to expose / exposing) the truth"
+    ],
+    "translation": "угрожать"
   },
   {
     "value": "turn out",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "It turned out (to be / being) true",
+      "She turns out (to know / knowing) the answer",
+      "They turned out (to have / having) the solution"
+    ],
+    "translation": "оказываться"
   },
   {
     "value": "venture",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I venture (to suggest / suggesting) a solution",
+      "She ventures (to explore / exploring) new territories",
+      "They ventured (to start / starting) a new business"
+    ],
+    "translation": "осмеливаться"
   },
   {
     "value": "volunteer",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I volunteered (to help / helping) at the shelter",
+      "She volunteers (to teach / teaching) children",
+      "They volunteer (to organize / organizing) the event"
+    ],
+    "translation": "вызываться добровольно"
   },
   {
     "value": "wait",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I wait (to see / seeing) the results",
+      "She waits (to hear / hearing) from the university",
+      "They wait (to receive / receiving) an answer"
+    ],
+    "translation": "ждать"
   },
   {
     "value": "want",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I want (to learn / learning) a new language",
+      "She wants (to travel / traveling) abroad",
+      "They want (to start / starting) a family"
+    ],
+    "translation": "хотеть"
   },
   {
     "value": "wish",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I wish (to thank / thanking) everyone",
+      "She wishes (to visit / visiting) Paris",
+      "They wish (to express / expressing) their gratitude"
+    ],
+    "translation": "желать"
   },
   {
     "value": "would like",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I would like (to order / ordering) dessert",
+      "She would like (to apply / applying) for the position",
+      "They would like (to schedule / scheduling) a meeting"
+    ],
+    "translation": "хотелось бы"
   },
   {
     "value": "yearn",
     "type": "infinitive",
-    "examples": []
+    "examples": [
+      "I yearn (to travel / traveling) again",
+      "She yearns (to return / returning) home",
+      "They yearn (to succeed / succeeding) in their goals"
+    ],
+    "translation": "жаждать, тосковать"
   }
 ]
