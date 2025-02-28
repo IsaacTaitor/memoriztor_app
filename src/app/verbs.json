@@ -2,6 +2,7 @@
   {
     "value": "abhor",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "I abhor (to lie / lying)",
       "She abhors (to get up / getting up) early",
@@ -12,6 +13,7 @@
   {
     "value": "acknowledge",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "He acknowledged (to make / making) a mistake",
       "The company acknowledges (to receive / receiving) your complaint",
@@ -22,6 +24,7 @@
   {
     "value": "admit",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "She admitted (to steal / stealing) the money",
       "I admit (to be / being) wrong about that",
@@ -32,6 +35,7 @@
   {
     "value": "advise",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "I advise (to take / taking) a break",
       "She advises (to start / starting) early",
@@ -42,6 +46,7 @@
   {
     "value": "allow",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "The rules don't allow (to smoke / smoking) inside",
       "Parents allow (to stay / staying) up late on weekends",
@@ -52,6 +57,7 @@
   {
     "value": "anticipate",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "We anticipate (to finish / finishing) the project next week",
       "They anticipate (to have / having) problems with the deadline",
@@ -62,6 +68,7 @@
   {
     "value": "appreciate",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "I appreciate (to hear / hearing) from you",
       "We appreciate (to receive / receiving) your feedback",
@@ -72,6 +79,7 @@
   {
     "value": "avoid",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "Try to avoid (to make / making) the same mistake twice",
       "She avoids (to drive / driving) in heavy traffic",
@@ -82,6 +90,7 @@
   {
     "value": "be worth",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "This book is worth (to read / reading)",
       "The movie is worth (to watch / watching)",
@@ -92,6 +101,7 @@
   {
     "value": "can't help",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "I can't help (to think / thinking) about it",
       "She can't help (to smile / smiling) when she sees him",
@@ -102,6 +112,7 @@
   {
     "value": "celebrate",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "We celebrate (to complete / completing) the project",
       "They celebrated (to win / winning) the championship",
@@ -112,6 +123,7 @@
   {
     "value": "confess",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "He confessed (to steal / stealing) the money",
       "I confess (to forget / forgetting) your birthday",
@@ -122,6 +134,7 @@
   {
     "value": "consider",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "We are considering (to move / moving) to another city",
       "They considered (to buy / buying) a new car",
@@ -132,6 +145,7 @@
   {
     "value": "defend",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "He defended (to cheat / cheating) on the test",
       "The lawyer defended (to take / taking) such actions",
@@ -142,6 +156,7 @@
   {
     "value": "delay",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "Let's delay (to make / making) the decision",
       "They delayed (to start / starting) the project",
@@ -152,6 +167,7 @@
   {
     "value": "detest",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "I detest (to wait / waiting) in long lines",
       "She detests (to cook / cooking) dinner",
@@ -162,6 +178,7 @@
   {
     "value": "discontinue",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "The company discontinued (to produce / producing) this model",
       "We discontinued (to use / using) old methods",
@@ -172,6 +189,7 @@
   {
     "value": "discuss",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "We discussed (to buy / buying) a new house",
       "They discussed (to change / changing) the rules",
@@ -182,6 +200,7 @@
   {
     "value": "dislike",
     "type": "gerund",
+    "level": "A1",
     "examples": [
       "I dislike (to wake up / waking up) early",
       "She dislikes (to work / working) late",
@@ -192,6 +211,7 @@
   {
     "value": "dispute",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "He disputed (to pay / paying) the fine",
       "We dispute (to accept / accepting) these terms",
@@ -202,6 +222,7 @@
   {
     "value": "dread",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "I dread (to go / going) to the dentist",
       "She dreads (to speak / speaking) in public",
@@ -212,6 +233,7 @@
   {
     "value": "endure",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "She endured (to live / living) in difficult conditions",
       "We endured (to work / working) long hours",
@@ -222,6 +244,7 @@
   {
     "value": "enjoy",
     "type": "gerund",
+    "level": "A1",
     "examples": [
       "I enjoy (to read / reading) books",
       "She enjoys (to cook / cooking) for friends",
@@ -232,6 +255,7 @@
   {
     "value": "escape",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "He escaped (to do / doing) extra work",
       "They escaped (to pay / paying) taxes",
@@ -242,6 +266,7 @@
   {
     "value": "evade",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "The politician evaded (to answer / answering) questions",
       "She evaded (to discuss / discussing) the issue",
@@ -252,6 +277,7 @@
   {
     "value": "explain",
     "type": "gerund",
+    "level": "A1",
     "examples": [
       "He explained (to solve / solving) the problem",
       "Please explain (to use / using) this device",
@@ -262,6 +288,7 @@
   {
     "value": "fancy",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "I fancy (to go / going) to Paris",
       "She fancies (to become / becoming) an actress",
@@ -272,6 +299,7 @@
   {
     "value": "fear",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "I fear (to lose / losing) my job",
       "She fears (to fly / flying) in planes",
@@ -282,6 +310,7 @@
   {
     "value": "feel like",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "I feel like (to eat / eating) ice cream",
       "She feels like (to go / going) for a walk",
@@ -292,6 +321,7 @@
   {
     "value": "feign",
     "type": "gerund",
+    "level": "C2",
     "examples": [
       "He feigned (to be / being) sick",
       "She feigned (to sleep / sleeping) during the lecture",
@@ -302,6 +332,7 @@
   {
     "value": "finish",
     "type": "gerund",
+    "level": "A1",
     "examples": [
       "I finished (to write / writing) the report",
       "She finished (to clean / cleaning) the house",
@@ -312,6 +343,7 @@
   {
     "value": "forgive",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "Please forgive (to be / being) late",
       "I forgive you for (to forget / forgetting) my birthday",
@@ -322,6 +354,7 @@
   {
     "value": "give up (stop)",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "I gave up (to smoke / smoking) last year",
       "She gave up (to try / trying) to learn Chinese",
@@ -332,6 +365,7 @@
   {
     "value": "keep (continue)",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "He keeps (to work / working) despite being tired",
       "They keep (to try / trying) new methods",
@@ -342,6 +376,7 @@
   {
     "value": "keep on",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "Keep on (to study / studying) hard",
       "She keeps on (to smile / smiling) through difficulties",
@@ -352,6 +387,7 @@
   {
     "value": "mention",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "He mentioned (to visit / visiting) Paris last summer",
       "She mentioned (to see / seeing) you at the party",
@@ -362,6 +398,7 @@
   {
     "value": "mind (object to)",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "Do you mind (to open / opening) the window?",
       "She doesn't mind (to work / working) late",
@@ -372,6 +409,7 @@
   {
     "value": "miss",
     "type": "gerund",
+    "level": "A1",
     "examples": [
       "I miss (to play / playing) football with friends",
       "She misses (to live / living) near the beach",
@@ -382,6 +420,7 @@
   {
     "value": "necessitate",
     "type": "gerund",
+    "level": "C2",
     "examples": [
       "The situation necessitates (to take / taking) immediate action",
       "Changes necessitate (to update / updating) the software",
@@ -392,6 +431,7 @@
   {
     "value": "omit",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "Don't omit (to check / checking) your answers",
       "She omitted (to mention / mentioning) important details",
@@ -402,6 +442,7 @@
   {
     "value": "permit",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "The rules permit (to park / parking) here",
       "The weather permits (to swim / swimming) today",
@@ -412,6 +453,7 @@
   {
     "value": "picture",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "I can picture (to live / living) in a big city",
       "She pictured (to win / winning) the competition",
@@ -422,6 +464,7 @@
   {
     "value": "postpone",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "Let's postpone (to make / making) the decision",
       "They postponed (to start / starting) the meeting",
@@ -432,6 +475,7 @@
   {
     "value": "practice",
     "type": "gerund",
+    "level": "A1",
     "examples": [
       "She practices (to play / playing) piano every day",
       "They practice (to speak / speaking) English",
@@ -442,6 +486,7 @@
   {
     "value": "prevent",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "The rain prevented us from (to go / going) outside",
       "This lock prevents (to steal / stealing) the bike",
@@ -452,6 +497,7 @@
   {
     "value": "put off",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "Don't put off (to do / doing) your homework",
       "She puts off (to clean / cleaning) her room",
@@ -462,6 +508,7 @@
   {
     "value": "recall",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "I recall (to meet / meeting) her last summer",
       "She recalls (to visit / visiting) Paris as a child",
@@ -472,6 +519,7 @@
   {
     "value": "recollect",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "I recollect (to see / seeing) that movie",
       "She recollects (to live / living) in London",
@@ -482,6 +530,7 @@
   {
     "value": "recommend",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "I recommend (to try / trying) the local cuisine",
       "She recommends (to start / starting) early",
@@ -492,6 +541,7 @@
   {
     "value": "report",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "Please report (to see / seeing) any suspicious activity",
       "She reported (to lose / losing) her passport",
@@ -502,6 +552,7 @@
   {
     "value": "resent",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "I resent (to work / working) overtime",
       "She resents (to wait / waiting) in long lines",
@@ -512,6 +563,7 @@
   {
     "value": "resist",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "I can't resist (to buy / buying) chocolate",
       "She resists (to check / checking) her phone",
@@ -522,6 +574,7 @@
   {
     "value": "resume",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "Let's resume (to work / working) after lunch",
       "She resumed (to study / studying) after a break",
@@ -532,6 +585,7 @@
   {
     "value": "risk",
     "type": "gerund",
+    "level": "B1",
     "examples": [
       "He risks (to lose / losing) his job",
       "They risk (to miss / missing) their flight",
@@ -542,6 +596,7 @@
   {
     "value": "shirk",
     "type": "gerund",
+    "level": "C2",
     "examples": [
       "Don't shirk (to do / doing) your duties",
       "He shirks (to take / taking) responsibility",
@@ -552,6 +607,7 @@
   {
     "value": "shun",
     "type": "gerund",
+    "level": "C2",
     "examples": [
       "He shuns (to speak / speaking) in public",
       "They shun (to use / using) modern technology",
@@ -562,6 +618,7 @@
   {
     "value": "suggest",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "I suggest (to try / trying) the new restaurant",
       "She suggested (to take / taking) a different route",
@@ -572,6 +629,7 @@
   {
     "value": "support",
     "type": "gerund",
+    "level": "A2",
     "examples": [
       "I support (to increase / increasing) funding for education",
       "She supports (to protect / protecting) the environment",
@@ -582,6 +640,7 @@
   {
     "value": "tolerate",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "I won't tolerate (to cheat / cheating) in my class",
       "She tolerates (to work / working) overtime occasionally",
@@ -592,6 +651,7 @@
   {
     "value": "understand",
     "type": "gerund",
+    "level": "A1",
     "examples": [
       "I understand (to want / wanting) to leave early",
       "She understands (to feel / feeling) nervous",
@@ -602,6 +662,7 @@
   {
     "value": "urge",
     "type": "gerund",
+    "level": "B2",
     "examples": [
       "I urge (to consider / considering) all options",
       "She urges (to save / saving) for retirement",
@@ -612,6 +673,7 @@
   {
     "value": "warrant",
     "type": "gerund",
+    "level": "C1",
     "examples": [
       "This situation warrants (to take / taking) extra precautions",
       "The problem warrants (to investigate / investigating) further",
@@ -622,6 +684,7 @@
   {
     "value": "agree",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "I agree (to help / helping) you move",
       "She agreed (to join / joining) the team",
@@ -632,6 +695,7 @@
   {
     "value": "appear",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "The problem appears (to be / being) more complex",
       "She appears (to know / knowing) the answer",
@@ -642,6 +706,7 @@
   {
     "value": "arrange",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "I arranged (to meet / meeting) them tomorrow",
       "She arranges (to deliver / delivering) the packages",
@@ -652,6 +717,7 @@
   {
     "value": "ask",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "He asked (to help / helping) with the project",
       "I ask you (to consider / considering) my proposal",
@@ -662,6 +728,7 @@
   {
     "value": "attempt",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "He attempted (to solve / solving) the puzzle",
       "We attempt (to improve / improving) our services",
@@ -672,6 +739,7 @@
   {
     "value": "beg",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "She begged (to stay / staying) longer",
       "They beg (to help / helping) them",
@@ -682,6 +750,7 @@
   {
     "value": "can/can't afford",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "We can't afford (to buy / buying) a new car",
       "She can afford (to travel / traveling) first class",
@@ -692,6 +761,7 @@
   {
     "value": "can/can't wait",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "I can't wait (to see / seeing) you",
       "She can't wait (to start / starting) her new job",
@@ -702,6 +772,7 @@
   {
     "value": "care",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "I don't care (to go / going) there",
       "She cares (to help / helping) others",
@@ -712,6 +783,7 @@
   {
     "value": "chance",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "I chanced (to meet / meeting) her at the store",
       "She chanced (to find / finding) the lost key",
@@ -722,6 +794,7 @@
   {
     "value": "choose",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "I chose (to stay / staying) home",
       "She chooses (to work / working) remotely",
@@ -732,6 +805,7 @@
   {
     "value": "claim",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "He claims (to be / being) an expert",
       "They claim (to know / knowing) the truth",
@@ -742,6 +816,7 @@
   {
     "value": "come",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "She came (to understand / understanding) the problem",
       "They come (to appreciate / appreciating) art",
@@ -752,6 +827,7 @@
   {
     "value": "consent",
     "type": "infinitive",
+    "level": "C1",
     "examples": [
       "He consented (to participate / participating) in the study",
       "She consents (to share / sharing) her experience",
@@ -762,6 +838,7 @@
   {
     "value": "dare",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "I dare (to disagree / disagreeing) with you",
       "She dares (to challenge / challenging) the rules",
@@ -772,6 +849,7 @@
   {
     "value": "decide",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "We decided (to move / moving) to a new city",
       "She decides (to quit / quitting) her job",
@@ -782,6 +860,7 @@
   {
     "value": "demand",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "The boss demands (to see / seeing) the report",
       "She demanded (to speak / speaking) to the manager",
@@ -792,6 +871,7 @@
   {
     "value": "deserve",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "You deserve (to know / knowing) the truth",
       "She deserves (to win / winning) the prize",
@@ -802,6 +882,7 @@
   {
     "value": "determine",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "We determined (to finish / finishing) the project",
       "She determines (to improve / improving) her skills",
@@ -812,6 +893,7 @@
   {
     "value": "elect",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "I elect (to stay / staying) silent",
       "She elected (to pursue / pursuing) her dreams",
@@ -822,6 +904,7 @@
   {
     "value": "endeavor",
     "type": "infinitive",
+    "level": "C1",
     "examples": [
       "We endeavor (to provide / providing) the best service",
       "She endeavors (to learn / learning) new skills",
@@ -832,6 +915,7 @@
   {
     "value": "expect",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "We expect (to finish / finishing) by Friday",
       "She expects (to receive / receiving) an answer soon",
@@ -842,6 +926,7 @@
   {
     "value": "fail",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "He failed (to complete / completing) the task",
       "She fails (to understand / understanding) the concept",
@@ -852,6 +937,7 @@
   {
     "value": "get",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "I got (to know / knowing) her better",
       "She gets (to work / working) early",
@@ -862,6 +948,7 @@
   {
     "value": "grow (up)",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "He grew up (to be / being) a doctor",
       "She grows (to love / loving) the city",
@@ -872,6 +959,7 @@
   {
     "value": "guarantee",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "We guarantee (to deliver / delivering) on time",
       "She guarantees (to finish / finishing) the project",
@@ -882,6 +970,7 @@
   {
     "value": "hesitate",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "Don't hesitate (to ask / asking) for help",
       "She hesitates (to speak / speaking) in public",
@@ -892,6 +981,7 @@
   {
     "value": "hope",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "I hope (to see / seeing) you soon",
       "She hopes (to graduate / graduating) next year",
@@ -902,6 +992,7 @@
   {
     "value": "hurry",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "We hurried (to catch / catching) the train",
       "She hurries (to finish / finishing) her work",
@@ -912,6 +1003,7 @@
   {
     "value": "incline",
     "type": "infinitive",
+    "level": "C1",
     "examples": [
       "I'm inclined (to agree / agreeing) with you",
       "She inclines (to believe / believing) the story",
@@ -922,6 +1014,7 @@
   {
     "value": "learn",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "He learned (to play / playing) the guitar",
       "She learns (to cook / cooking) new dishes",
@@ -932,6 +1025,7 @@
   {
     "value": "manage",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "We managed (to complete / completing) the project on time",
       "She manages (to balance / balancing) work and family",
@@ -942,6 +1036,7 @@
   {
     "value": "mean",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "I mean (to help / helping) you",
       "She means (to return / returning) the book",
@@ -952,6 +1047,7 @@
   {
     "value": "need",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "You need (to study / studying) harder",
       "She needs (to rest / resting) more",
@@ -962,6 +1058,7 @@
   {
     "value": "neglect",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "Don't neglect (to exercise / exercising) regularly",
       "She neglects (to check / checking) her emails",
@@ -972,6 +1069,7 @@
   {
     "value": "offer",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "He offered (to help / helping) with the move",
       "She offers (to teach / teaching) beginners",
@@ -982,6 +1080,7 @@
   {
     "value": "pay",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "It pays (to be / being) honest",
       "She pays (to attend / attending) these classes",
@@ -992,6 +1091,7 @@
   {
     "value": "plan",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "We plan (to travel / traveling) next month",
       "She plans (to study / studying) abroad",
@@ -1002,6 +1102,7 @@
   {
     "value": "prepare",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "I prepare (to leave / leaving) early",
       "She prepares (to present / presenting) tomorrow",
@@ -1012,6 +1113,7 @@
   {
     "value": "pretend",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "He pretends (to sleep / sleeping) during meetings",
       "She pretends (to understand / understanding) the topic",
@@ -1022,6 +1124,7 @@
   {
     "value": "profess",
     "type": "infinitive",
+    "level": "C1",
     "examples": [
       "He professes (to know / knowing) the truth",
       "She professes (to love / loving) classical music",
@@ -1032,6 +1135,7 @@
   {
     "value": "promise",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "I promise (to help / helping) you tomorrow",
       "She promised (to return / returning) the book",
@@ -1042,6 +1146,7 @@
   {
     "value": "prove",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "He proved (to be / being) right",
       "She proves (to excel / excelling) at her job",
@@ -1052,6 +1157,7 @@
   {
     "value": "refuse",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "I refuse (to give up / giving up) now",
       "She refuses (to accept / accepting) defeat",
@@ -1062,6 +1168,7 @@
   {
     "value": "remain",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "He remains (to be / being) optimistic",
       "She remains (to work / working) here",
@@ -1072,6 +1179,7 @@
   {
     "value": "request",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "I request (to speak / speaking) with the manager",
       "She requested (to leave / leaving) early",
@@ -1082,6 +1190,7 @@
   {
     "value": "resolve",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "We resolved (to finish / finishing) the project",
       "She resolves (to exercise / exercising) daily",
@@ -1092,6 +1201,7 @@
   {
     "value": "say",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "He says (to know / knowing) the answer",
       "She said (to understand / understanding) the problem",
@@ -1102,6 +1212,7 @@
   {
     "value": "seek",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "We seek (to improve / improving) our services",
       "She seeks (to find / finding) a better job",
@@ -1112,6 +1223,7 @@
   {
     "value": "seem",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "He seems (to know / knowing) the answer",
       "She seems (to enjoy / enjoying) her work",
@@ -1122,6 +1234,7 @@
   {
     "value": "shudder",
     "type": "infinitive",
+    "level": "C1",
     "examples": [
       "I shudder (to think / thinking) about it",
       "She shudders (to remember / remembering) that day",
@@ -1132,6 +1245,7 @@
   {
     "value": "strive",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "We strive (to achieve / achieving) excellence",
       "She strives (to improve / improving) every day",
@@ -1142,6 +1256,7 @@
   {
     "value": "struggle",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "I struggle (to understand / understanding) this concept",
       "She struggles (to balance / balancing) work and life",
@@ -1152,6 +1267,7 @@
   {
     "value": "swear",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "I swear (to tell / telling) the truth",
       "She swears (to keep / keeping) the secret",
@@ -1162,6 +1278,7 @@
   {
     "value": "tend",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "He tends (to forget / forgetting) important dates",
       "She tends (to work / working) late",
@@ -1172,6 +1289,7 @@
   {
     "value": "threaten",
     "type": "infinitive",
+    "level": "B2",
     "examples": [
       "The storm threatens (to destroy / destroying) the crops",
       "She threatens (to leave / leaving) the company",
@@ -1182,6 +1300,7 @@
   {
     "value": "turn out",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "It turned out (to be / being) true",
       "She turns out (to know / knowing) the answer",
@@ -1192,6 +1311,7 @@
   {
     "value": "venture",
     "type": "infinitive",
+    "level": "C1",
     "examples": [
       "I venture (to suggest / suggesting) a solution",
       "She ventures (to explore / exploring) new territories",
@@ -1202,6 +1322,7 @@
   {
     "value": "volunteer",
     "type": "infinitive",
+    "level": "B1",
     "examples": [
       "I volunteered (to help / helping) at the shelter",
       "She volunteers (to teach / teaching) children",
@@ -1212,6 +1333,7 @@
   {
     "value": "wait",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "I wait (to see / seeing) the results",
       "She waits (to hear / hearing) from the university",
@@ -1222,6 +1344,7 @@
   {
     "value": "want",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "I want (to learn / learning) a new language",
       "She wants (to travel / traveling) abroad",
@@ -1232,6 +1355,7 @@
   {
     "value": "wish",
     "type": "infinitive",
+    "level": "A2",
     "examples": [
       "I wish (to thank / thanking) everyone",
       "She wishes (to visit / visiting) Paris",
@@ -1242,6 +1366,7 @@
   {
     "value": "would like",
     "type": "infinitive",
+    "level": "A1",
     "examples": [
       "I would like (to order / ordering) dessert",
       "She would like (to apply / applying) for the position",
@@ -1252,6 +1377,7 @@
   {
     "value": "yearn",
     "type": "infinitive",
+    "level": "C1",
     "examples": [
       "I yearn (to travel / traveling) again",
       "She yearns (to return / returning) home",
